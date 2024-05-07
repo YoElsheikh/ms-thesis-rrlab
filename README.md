@@ -5,9 +5,9 @@ I will be adding the code gradually. Due to proprietary reasons, .cpp and .h fil
 ## Project
 
 <div style="border: 1px solid black; padding: 10px;">
-  <details>
+  <UE5FinRl>
     <ul>
-      <li>UE5FinRl/</li>
+      <li>/</li>
       <li>
         <ul style="list-style-type: none; padding-left: 20px;">
           <li>gFinRlUE5DMapInterface.cpp</li>
