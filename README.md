@@ -73,7 +73,9 @@ I will be adding the code gradually. Due to proprietary reasons, .cpp and .h fil
 </div>
 
 ## Media
+Campus
 ![campus_angle_view](media/campus_angle_view.png)
+Networking
 ![campus_angle_view](media/socket_communication.png)
 
   </ul>
